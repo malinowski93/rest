@@ -33,5 +33,6 @@ public class GreetingController {
     }
 }
 
+//http://localhost:8080/greeting?name=Michael
 //curl -X POST -H "Content-Type: application/json" -d "{\"name\": \"Michael\"}" http://localhost:8080/greeting
 //http://localhost:8080/swagger-ui.html
